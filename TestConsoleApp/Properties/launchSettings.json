@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--stringType \"yes\" --intType 100 --decimalType 100.01 --doubleType 10.01 --floatType 1000.01 --boolType true"
+    }
+  }
+}
